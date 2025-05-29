@@ -27,7 +27,7 @@
   "dependencies": {
     "cosmiconfig": "^7.0.1",
     "debug": "^4.3.4",
-    "execa": "^6.1.0",
+    "execa": "^9.6.0",
     "fs-extra": "^10.1.0",
     "is-string-and-not-blank": "^0.0.2",
     "load-json-file": "^7.0.1",
